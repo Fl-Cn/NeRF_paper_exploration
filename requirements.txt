@@ -1,0 +1,9 @@
+# Core
+torch
+numpy
+
+# Image handling and visualization
+imageio
+matplotlib
+
+ipykernel # run jupyter notebooks
